@@ -1,4 +1,4 @@
-import RockPaperScissors from "./Сomponents/RockPaperScissors";
+import RockPaperScissors from "./Components/RockPaperScissors";
 
 function App() {
   return (
