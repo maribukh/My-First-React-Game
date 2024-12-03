@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.choices {
+  margin: 20px 0;
+}
+
+.choiceButton {
+  margin          : 0 10px;
+  padding         : 10px 20px;
+  font-size       : 16px;
+  cursor          : pointer;
+  background-color: #f0f0f0;
+  border          : 1px solid #ccc;
+  border-radius   : 5px;
+  transition      : background-color 0.3s;
+}
+
+.choiceButton:hover {
+  background-color: #ddd;
+}
+
+.results {
+  margin-top: 20px;
+  font-size : 18px;
+}
+
+.resultText {
+  font-weight: bold;
+  color      : #333;
+}
